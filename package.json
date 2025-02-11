@@ -1,0 +1,17 @@
+{
+  "name": "framework-StellarisWare-lm3s811",
+  "version": "0.80021",
+  "title": "StellarisWare-lm3s811",
+  "description": "The TI's StellarisWare.",
+  "keywords": [
+    "framework",
+    "StellarisWare",
+    "lm3s811"
+  ],
+  "homepage": "https://github.com/landao314/StellarisWare-lm3s811",
+  "license": "Ti",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/landao314/StellarisWare-lm3s811"
+  }
+}
